@@ -11,12 +11,12 @@ STORIES = [
     {
         "tag": "F1",
         "title": "Verstappen Menang Balapan Gila di Las Vegas",
-        "text": "Max Verstappen memenangi Grand Prix Las Vegas setelah balapan 50 putaran yang kacau dengan 352 kali salip-menyalip dan 35 kali pergantian pemimpin. Lando Norris finis kedua dan Oscar Piastri ketiga, setelah drama di putaran akhir menjatuhkan Mercedes dari podium.",
+        "text": "Max Verstappen memenangi Grand Prix Las Vegas setelah balapan 50 putaran yang penuh drama hingga akhir. Lando Norris finis kedua dan Oscar Piastri ketiga, sementara Mercedes tersingkir dari podium di putaran-putaran penutup.",
     },
     {
         "tag": "SEPAK BOLA",
         "title": "Kansas City Current Juara NWSL Pertama Kali",
-        "text": "Kansas City Current merebut gelar juara liga sepak bola wanita Amerika untuk pertama kalinya dengan menang 2-1 atas Washington Spirit di Audi Field. Gol pembuka dicetak Vanessa DiBernardo langsung dari tendangan sudut, lalu Debinha menggandakan keunggulan sebelum Trinity Rodman memperkecil skor.",
+        "text": "Kansas City Current merebut gelar juara liga sepak bola wanita Amerika untuk pertama kalinya dengan menang 2-1 atas Washington Spirit di Audi Field. Gol pembuka dicetak Vanessa DiBernardo langsung dari tendangan sudut, sebelum Trinity Rodman memperkecil skor.",
     },
     {
         "tag": "KONFLIK",
@@ -24,9 +24,9 @@ STORIES = [
         "text": "Bahrain menyebut proyektil Iran menghantam sebuah kawasan industri di Sitra dan melukai dua orang. Arab Saudi, Kuwait, dan Qatar mengecam serangan itu. Iran mengklaim telah menghancurkan dua radar Patriot Amerika, sementara tiga kapal tanker juga dilaporkan diserang di dekat Selat Hormuz.",
     },
     {
-        "tag": "DIPLOMASI",
-        "title": "Trump, Xi, dan Putin Bertemu di Shenzhen",
-        "text": "Presiden Amerika, China, dan Rusia menggelar pertemuan tiga pihak pertama dalam sejarah di Shenzhen. Ketiganya mengeluarkan pernyataan bersama soal risiko nuklir, namun tanpa batas senjata baru dan tanpa terobosan soal Ukraina.",
+        "tag": "GEORGIA",
+        "title": "Georgia Berkabung Nasional untuk Korban Ledakan",
+        "text": "Georgia menetapkan 22 November sebagai hari berkabung nasional untuk enam korban ledakan gas di blok apartemen Kvemo Ponichala, Tbilisi, termasuk dua anak. Bendera negara diturunkan setengah tiang di seluruh negeri dan ibadah peringatan digelar untuk para korban.",
     },
     {
         "tag": "KEADILAN",
@@ -46,17 +46,17 @@ STORIES = [
     {
         "tag": "EKONOMI",
         "title": "Saham AS Masuk Koreksi, Jual Beli AI Anjlok",
-        "text": "Bursa Amerika jatuh ke wilayah koreksi setelah indeks S&P 500 merosot 3,7 persen dan Nasdaq 5,3 persen dalam sehari. Gelombang jual saham teknologi kecerdasan buatan menyebar ke Jepang dan Korea Selatan.",
+        "text": "Bursa Amerika jatuh ke wilayah koreksi setelah indeks S&P 500 merosot 3,7 persen dan Nasdaq anjlok tajam. Gelombang jual saham teknologi kecerdasan buatan menyebar ke Jepang dan Korea Selatan.",
     },
     {
-        "tag": "HUKUM",
-        "title": "Mahkamah Dunia: Myanmar Lakukan Genosida Rohingya",
-        "text": "Mahkamah Internasional memutuskan Myanmar melakukan genosida terhadap etnis Rohingya pada 2017. Ini pertama kalinya pengadilan dunia menyatakan sebuah negara bertanggung jawab atas genosida.",
+        "tag": "BENCANA",
+        "title": "Korban Badai Brazil Naik, Pemerintah Tetapkan Darurat",
+        "text": "Jumlah korban badai di Tupancireta, Brasil selatan, naik menjadi lima tewas dan 265 luka-luka. Pemerintah federal resmi menetapkan status bencana di kota itu setelah badai merobohkan atap ribuan rumah dan memutus listrik serta air bersih.",
     },
     {
-        "tag": "PERDAGANGAN",
-        "title": "UE dan Indonesia Teken Kesepakatan Dagang",
-        "text": "Uni Eropa dan Indonesia menandatangani perjanjian perdagangan setelah hampir sepuluh tahun berunding. Kesepakatan itu memangkas tarif hingga 98,5 persen barang dan membuka jalan bagi kerja sama ekonomi yang lebih luas.",
+        "tag": "GAZA",
+        "title": "Hamas Minta Pertemuan Darurat Mediator Usai Serangan Gaza",
+        "text": "Hamas meminta pertemuan darurat para mediator gencatan senjata setelah serangan Israel menewaskan tiga pekerja dapur umum yang sedang mengantar makanan ke warga terlantar di Kota Gaza. Militer Israel menyebut kendaraan itu dipakai anggota Jihad Islam, sementara lembaga amal membantah truk itu miliknya.",
     },
     {
         "tag": "INDONESIA",
@@ -74,9 +74,9 @@ STORIES = [
         "text": "Wahana gabungan Eropa-Jepang BepiColombo berhasil masuk orbit Merkurius setelah perjalanan delapan tahun melintasi tata surya bagian dalam. Dua wahana pengorbitnya akan berpisah pada 9-10 Desember untuk mempelajari planet terkecil itu.",
     },
     {
-        "tag": "KESEHATAN",
-        "title": "Terapi CRISPR Sekali Suntik Turunkan Kolesterol 52%",
-        "text": "Terapi gen sekali pakai berbasis CRISPR berhasil memangkas kolesterol jahat hingga 52 persen dalam uji klinis. Temuan ini membuka jalan bagi pengobatan baru penyakit jantung tanpa obat harian.",
+        "tag": "EROPA",
+        "title": "Polandia: Rusia Dua Kali Incar Rapper Ukraina-Amerika",
+        "text": "Polandia mengungkap Rusia diduga dua kali mencoba membunuh rapper Ukraina-Amerika Kyivstoner, sekali di Polandia pada Agustus dan sekali di Denmark. Denmark mengusir atase militer Rusia, dan Uni Eropa didesak memperketat perjalanan warga Rusia.",
     },
     {
         "tag": "SEPAK BOLA",
@@ -96,17 +96,17 @@ STORIES = [
     {
         "tag": "SEPAK BOLA",
         "title": "Man City Imbang 1-1 Lawan Fulham",
-        "text": "Manchester City mengakhiri tiga kekalahan beruntun di liga dengan hasil imbang 1-1 melawan Fulham di Etihad. Gol Fulham dicetak Rodrigo Muniz sebelum City menyamakan kedudukan.",
+        "text": "Manchester City mengakhiri tiga kekalahan beruntun di liga dengan hasil imbang 1-1 melawan Fulham di Etihad.",
     },
     {
-        "tag": "NATO",
-        "title": "NATO Janji Bela Polandia Usai Rudal Rusia",
-        "text": "Sekretaris Jenderal NATO Mark Rutte berjanji membela Polandia setelah rudal dan drone Rusia memasuki wilayah udara Polandia. NATO menyebut pelanggaran itu serius dan akan membahasnya dalam pertemuan Dewan Atlantik Utara.",
+        "tag": "TEKNOLOGI",
+        "title": "Amazon Dekati Kesepakatan 7,5 Miliar Dolar Beli Decart",
+        "text": "Amazon berada di tahap akhir pembicaraan untuk membeli perusahaan rintisan AI asal Israel, Decart, senilai sekitar 7,5 miliar dolar. Kesepakatan bisa diumumkan pekan depan, dan akan menjadi salah satu akuisisi termahal untuk perusahaan AI muda.",
     },
     {
-        "tag": "AMERIKA",
-        "title": "FBI Selidiki Dugaan Peretasan Basis Data Kriminal",
-        "text": "FBI menyelidiki dugaan pembobolan Pusat Informasi Kejahatan Nasional, basis data yang dipakai polisi Amerika untuk memeriksa surat perintah, buronan, dan riwayat kriminal.",
+        "tag": "INDIA",
+        "title": "Minuman Oplosan di Manipur Tewaskan Belasan Orang",
+        "text": "Sedikitnya 16 orang tewas dan sekitar 600 lainnya dirawat di Manipur, India, setelah menenggak minuman keras oplosan yang diduga mengandung metanol. Pemerintah negara bagian membentuk tim penyelidikan, sementara penyebab pastinya masih menunggu hasil laboratorium.",
     },
     {
         "tag": "TEKNOLOGI",
@@ -119,14 +119,14 @@ STORIES = [
         "text": "Prakirawan memperingatkan pasang air laut yang bisa memecahkan rekor di pesisir California pekan ini. Wali Kota San Francisco mengimbau warga menghindari perjalanan yang tidak perlu.",
     },
     {
-        "tag": "OBITUARI",
-        "title": "Paolo Bulgari Meninggal di Usia 89 Tahun",
-        "text": "Paolo Bulgari, perajin perhiasan Italia yang mengubah bisnis keluarga menjadi merek mewah dunia, meninggal dunia pada usia 89 tahun.",
+        "tag": "HIBURAN",
+        "title": "GTA 6 Pecahkan Rekor Peluncuran 3,79 Miliar Dolar",
+        "text": "Grand Theft Auto VI membukukan sekitar 3,79 miliar dolar pada hari peluncurannya, rekor baru untuk debut sebuah gim. Angka itu melampaui semua peluncuran gim sebelumnya dan menegaskan besarnya antusiasme pemain di seluruh dunia.",
     },
     {
-        "tag": "BENCANA",
-        "title": "Kapal Tenggelam di Nigeria, 24 Tewas",
-        "text": "Sedikitnya 24 orang tewas ketika sebuah perahu terbalik di Nigeria saat mengangkut rombongan menuju sebuah pemakaman.",
+        "tag": "ISRAEL",
+        "title": "Eisenkot Ajak Likud Bicara Koalisi Pemerintahan",
+        "text": "Pemimpin oposisi Israel Gadi Eisenkot mengundang partai Likud pimpinan Netanyahu ke pembicaraan koalisi, membuka kemungkinan susunan pemerintahan baru. Langkah itu muncul di tengah perdebatan sengit soal serangan pemukim di Tepi Barat.",
     },
     {
         "tag": "BUDAYA",
@@ -139,9 +139,9 @@ STORIES = [
         "text": "Serangan drone di Khartoum merusak sebuah gedung Perserikatan Bangsa-Bangsa di tengah konflik Sudan yang terus berkecamuk.",
     },
     {
-        "tag": "EROPA",
-        "title": "UE dan Inggris Sepakati Reset Pasca-Brexit",
-        "text": "Uni Eropa dan Inggris menyepakati penataan ulang hubungan pasca-Brexit dalam sebuah pertemuan puncak, menandai babak baru kerja sama kedua pihak.",
+        "tag": "PBB",
+        "title": "PBB Perpanjang Pembahasan Aturan Robot Pembunuh",
+        "text": "Perundingan senjata PBB memperpanjang pekerjaan penyusunan aturan soal robot pembunuh hingga 2028. Negara-negara belum sepakat soal batasan senjata otonom yang bisa memilih target sendiri tanpa kendali manusia.",
     },
     {
         "tag": "SPANYOL",
@@ -164,9 +164,9 @@ STORIES = [
         "text": "Para astronom mengonfirmasi Bumi kedatangan bulan mini baru, asteroid 2026 QQ8, yang untuk sementara terperangkap oleh gravitasi planet kita.",
     },
     {
-        "tag": "TIMUR TENGAH",
-        "title": "Trump: Iran Ingin Kesepakatan; Houthi Serang Saudi",
-        "text": "Presiden Trump mengatakan Iran menginginkan kesepakatan, sementara pemberontak Houthi Yaman dan Arab Saudi saling bertukar tembakan di tengah ketegangan kawasan.",
+        "tag": "ASIA",
+        "title": "Hubungan China-Jepang Memburuk Soal Taiwan",
+        "text": "Hubungan China dan Jepang memburuk setelah perselisihan soal Taiwan dan mineral kritis. Kedua negara saling melontarkan pernyataan keras, menambah ketegangan di kawasan Asia Timur.",
     },
     {
         "tag": "OLAHRAGA",
